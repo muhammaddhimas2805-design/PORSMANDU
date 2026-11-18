@@ -1,2 +1,2 @@
-# PORSMANDU
-PORSMANDU adalah Portal Resmi Informasi SMA Negeri 2 Wewewa Timur
+# PRISMA
+Portasl Informasi Resmi SMA Negeri 2 Kodi
